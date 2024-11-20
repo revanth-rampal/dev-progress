@@ -34,10 +34,10 @@ You can fork this repository to make your own copy and work on it independently.
 ### 🌐 **Step 2: Clone the Forked Repository**  
 🔧 **Follow these steps:**  
 1. **Copy the URL** of your forked repository.  
-   - 🔗 Example: `https://github.com/<your-username>/dev-progress.git`  
+   - 🔗 Example: `https://github.com/revanth-rampal/dev-progress.git`  
 2. Open your terminal and **run the following command**:  
    ```bash
-   git clone https://github.com/<your-username>/dev-progress.git
+   git clone https://github.com/revanth-rampal/dev-progress.git
  🎉 This will clone the repository to your local machine.
  
  ----
