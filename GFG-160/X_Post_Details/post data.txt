@@ -1,0 +1,8 @@
+🚀 Day 1 of #gfg160 and #geekstreak2024
+-
+🔑Problem 1: Second Largest Element in an Array
+•  A straightforward solution to find the runner-up number in an array.
+🌟 Day 1/160 Complete ✅
+📍 Onwards and upwards!
+
+🔗 @geeksforgeeks  #gfg160 #geekstreak2024
