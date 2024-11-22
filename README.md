@@ -38,6 +38,7 @@ You can fork this repository to make your own copy and work on it independently.
 2. Open your terminal and **run the following command**:  
    ```bash
    git clone https://github.com/revanth-rampal/dev-progress.git
+    ```
  🎉 This will clone the repository to your local machine.
  
  ----
