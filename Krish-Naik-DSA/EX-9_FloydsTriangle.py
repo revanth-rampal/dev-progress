@@ -6,7 +6,7 @@ def generate_floyds_triangle(n):
     n (int): The number of rows in the triangle.
     
     Returns:
-    list: A list of strings where each string represents a row of Floyd's Triangle.
+    list: A list of strings where each string represents a row of Floyd's Triangle
     """
     # Your code here
     pattern = []
