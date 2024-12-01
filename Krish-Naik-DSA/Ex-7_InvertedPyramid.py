@@ -15,3 +15,5 @@ def generate_inverted_pyramid(n):
         stars = '*' * (2 * (n - i) - 1)
         pattern.append(spaces + stars + spaces)
     return pattern
+
+print(generate_inverted_pyramid(5))
