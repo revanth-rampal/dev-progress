@@ -1,5 +1,3 @@
-#User function Template for python3
-                return i
 
 
 class Solution:
